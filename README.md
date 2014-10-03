@@ -1,7 +1,7 @@
 assemblyQC
 ==========
 
-This is a small Python program for evaluating common DNA sequence assembly quality parameters.
+This is a small Python program for evaluating common genome assembly quality parameters.
 
 written by Thomas Nelson.
 
