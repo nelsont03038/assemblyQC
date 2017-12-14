@@ -5,9 +5,7 @@ This is a Python program for evaluating common genome assembly quality parameter
 
 written by Thomas Nelson.
 
-This script requires the Biopython module and Python version 2.x.
-
-It can work in Python 3.x simply by changing the print statements to the print() function.
+This script requires the Biopython module and Python version 3.4 or greater.
 
 Get the Biopython module here here: http://biopython.org/wiki/Download.
 
